@@ -1,0 +1,5 @@
+# Ignore all images in this folder
+*
+# Except this gitignore and gitkeep
+!.gitignore
+!.gitkeep
